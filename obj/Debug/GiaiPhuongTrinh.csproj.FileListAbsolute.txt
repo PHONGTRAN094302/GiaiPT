@@ -1,0 +1,17 @@
+C:\Users\os\laptrinhnet\repos\GiaiPhuongTrinh\GiaiPhuongTrinh\bin\Debug\GiaiPhuongTrinh.exe.config
+C:\Users\os\laptrinhnet\repos\GiaiPhuongTrinh\GiaiPhuongTrinh\bin\Debug\GiaiPhuongTrinh.exe
+C:\Users\os\laptrinhnet\repos\GiaiPhuongTrinh\GiaiPhuongTrinh\bin\Debug\GiaiPhuongTrinh.pdb
+C:\Users\os\laptrinhnet\repos\GiaiPhuongTrinh\GiaiPhuongTrinh\bin\Debug\mscorlib.dll
+C:\Users\os\laptrinhnet\repos\GiaiPhuongTrinh\GiaiPhuongTrinh\bin\Debug\normidna.nlp
+C:\Users\os\laptrinhnet\repos\GiaiPhuongTrinh\GiaiPhuongTrinh\bin\Debug\normnfc.nlp
+C:\Users\os\laptrinhnet\repos\GiaiPhuongTrinh\GiaiPhuongTrinh\bin\Debug\normnfd.nlp
+C:\Users\os\laptrinhnet\repos\GiaiPhuongTrinh\GiaiPhuongTrinh\bin\Debug\normnfkc.nlp
+C:\Users\os\laptrinhnet\repos\GiaiPhuongTrinh\GiaiPhuongTrinh\bin\Debug\normnfkd.nlp
+C:\Users\os\laptrinhnet\repos\GiaiPhuongTrinh\GiaiPhuongTrinh\obj\Debug\GiaiPhuongTrinh.csprojAssemblyReference.cache
+C:\Users\os\laptrinhnet\repos\GiaiPhuongTrinh\GiaiPhuongTrinh\obj\Debug\GiaiPhuongTrinh.Form1.resources
+C:\Users\os\laptrinhnet\repos\GiaiPhuongTrinh\GiaiPhuongTrinh\obj\Debug\GiaiPhuongTrinh.Properties.Resources.resources
+C:\Users\os\laptrinhnet\repos\GiaiPhuongTrinh\GiaiPhuongTrinh\obj\Debug\GiaiPhuongTrinh.csproj.GenerateResource.cache
+C:\Users\os\laptrinhnet\repos\GiaiPhuongTrinh\GiaiPhuongTrinh\obj\Debug\GiaiPhuongTrinh.csproj.CoreCompileInputs.cache
+C:\Users\os\laptrinhnet\repos\GiaiPhuongTrinh\GiaiPhuongTrinh\obj\Debug\GiaiPhuongTrinh.csproj.CopyComplete
+C:\Users\os\laptrinhnet\repos\GiaiPhuongTrinh\GiaiPhuongTrinh\obj\Debug\GiaiPhuongTrinh.exe
+C:\Users\os\laptrinhnet\repos\GiaiPhuongTrinh\GiaiPhuongTrinh\obj\Debug\GiaiPhuongTrinh.pdb
